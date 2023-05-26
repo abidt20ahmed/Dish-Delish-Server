@@ -1,0 +1,64 @@
+[
+    {
+        "id": "1",
+        "picture": "https://plus.unsplash.com/premium_photo-1661778057337-ceaa5c779635?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",    
+        "name": "Chef John Smith",   
+        "years_of_experience": 10,     
+        "num_recipes": ["1", "2", "3"],
+        "likes": 1000,
+        "view_recipes_button": "https://example.com/chef-john-smith-recipes",
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry, specializing in Italian cuisine. He has worked in various Michelin-starred restaurants across Europe and has won several awards for his innovative dishes. Chef John believes in using only the freshest and locally sourced ingredients to create delicious and healthy meals for his customers. When he's not in the kitchen, you can find him traveling the world, discovering new flavors and ingredients to incorporate into his cooking."   
+    },
+    {
+        "id": "2",
+        "picture": "https://images.unsplash.com/photo-1641536618422-2cf0bbd10014?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2127&q=80",
+        "name": "Chef Sarah Lee",
+        "years_of_experience": 5,
+        "num_recipes": ["4", "5", "6"],
+        "likes": 500,
+        "view_recipes_button": "https://example.com/chef-sarah-lee-recipes",
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry, specializing in Italian cuisine. He has worked in various Michelin-starred restaurants across Europe and has won several awards for his innovative dishes. Chef John believes in using only the freshest and locally sourced ingredients to create delicious and healthy meals for his customers. When he's not in the kitchen, you can find him traveling the world, discovering new flavors and ingredients to incorporate into his cooking."
+    },
+    {
+        "id": "3",
+        "picture": "https://plus.unsplash.com/premium_photo-1677852512190-5a89ee399aed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Chef Michael Nguyen",
+        "years_of_experience": 15,
+        "num_recipes": ["7", "8", "9"],
+        "likes": 2000,
+        "view_recipes_button": "https://example.com/chef-michael-nguyen-recipes",
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry, specializing in Italian cuisine. He has worked in various Michelin-starred restaurants across Europe and has won several awards for his innovative dishes. Chef John believes in using only the freshest and locally sourced ingredients to create delicious and healthy meals for his customers. When he's not in the kitchen, you can find him traveling the world, discovering new flavors and ingredients to incorporate into his cooking."
+    },
+    {
+        "id": "4",
+        "picture": "https://images.unsplash.com/photo-1667899827540-e06edbb2272d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDg0fHxjaGVmc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Chef Karen Davis",
+        "years_of_experience": 8,
+        "num_recipes": ["10", "11", "12"],
+        "likes": 750,
+        "view_recipes_button": "https://example.com/chef-karen-davis-recipes",
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry, specializing in Italian cuisine. He has worked in various Michelin-starred restaurants across Europe and has won several awards for his innovative dishes. Chef John believes in using only the freshest and locally sourced ingredients to create delicious and healthy meals for his customers. When he's not in the kitchen, you can find him traveling the world, discovering new flavors and ingredients to incorporate into his cooking."
+
+    },
+    {
+        "id": "5",
+        "picture": "https://images.unsplash.com/photo-1529395045262-dc9665365b0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80",
+        "name": "Chef Tom Brown",
+        "years_of_experience": 12,
+        "num_recipes": ["13", "14", "15"],
+        "likes": 1500,
+        "view_recipes_button": "https://example.com/chef-tom-brown-recipes",
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry, specializing in Italian cuisine. He has worked in various Michelin-starred restaurants across Europe and has won several awards for his innovative dishes. Chef John believes in using only the freshest and locally sourced ingredients to create delicious and healthy meals for his customers. When he's not in the kitchen, you can find him traveling the world, discovering new flavors and ingredients to incorporate into his cooking."
+    },
+    {
+        "id": "6",
+        "picture": "https://plus.unsplash.com/premium_photo-1673830185738-fdeec12d7908?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Chef Rachel Chen",
+        "years_of_experience": 6,
+        "num_recipes": ["16", "17", "18"],
+        "likes": 400,
+        "view_recipes_button": "https://example.com/chef-rachel-chen-recipes",
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry, specializing in Italian cuisine. He has worked in various Michelin-starred restaurants across Europe and has won several awards for his innovative dishes. Chef John believes in using only the freshest and locally sourced ingredients to create delicious and healthy meals for his customers. When he's not in the kitchen, you can find him traveling the world, discovering new flavors and ingredients to incorporate into his cooking."
+    }
+]
+

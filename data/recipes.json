@@ -1,0 +1,254 @@
+ [
+    {
+        "id": "1",
+        "name": "Spaghetti Carbonara",
+        "image": "https://img.freepik.com/free-photo/spaghetti-black-cup-with-tomatoes-lettuce_1150-23163.jpg?w=1380&t=st=1683144226~exp=1683144826~hmac=ada66acc7139f33c0eb2b94cf5a1a15945b0e3fca78e77d1f1604fbbbeafaf6e",
+        "ingredients": [
+            "1.Spaghetti  ",
+            "2.Pancetta  ",
+            "3.Pecorino cheese  ",
+            "4.Egg yolks  ",
+            "5.Garlic  "
+           
+        ],
+        "method": " Cook spaghetti according to package directions. In a large skillet, cook pancetta until crispy. In a bowl, whisk together egg yolks and pecorino cheese. When spaghetti is cooked, reserve a cup of pasta water and drain the rest. Add garlic to the skillet and cook until fragrant. Remove skillet from heat and add spaghetti. Quickly pour in egg and cheese mixture, stirring constantly to avoid scrambling the eggs. If the pasta is too dry, add some of the reserved pasta water. Serve with a generous amount of black pepper on top.",
+        "rating": 4.8
+    },
+    {
+        "id": "2",
+        "name": "Margherita Pizza",
+        "image": "https://images.unsplash.com/photo-1458642849426-cfb724f15ef7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": [
+            "1. pizza dough  ",
+            "2. tomatoes  ",
+            "3. mozzarella cheese  ",
+            "4. fresh basil  ",
+            "5. olive oil  "
+        ],
+        "method": " Preheat oven to 450°F. Roll out pizza dough into desired shape. Spread a thin layer of tomato sauce on top of the dough. Add mozzarella cheese on top of the tomato sauce. Bake pizza for 10-12 minutes until crust is golden brown. Remove from oven and add fresh basil leaves on top. Drizzle with olive oil before serving.",
+        "rating": 4.5
+    },
+    {
+        "id": "3",
+        "name": "Chicken Parmesan",
+        "image": "https://img.freepik.com/free-photo/delicious-rice-chicken-meat-patties-with-garlic-tomato-sauce_2829-11012.jpg?w=1380&t=st=1683143374~exp=1683143974~hmac=23de1d025768cee20c5c572bb659f03999524b5ba9b4df5facf2df0e1512d6bb",
+        "ingredients": [
+            "1.Chicken breasts  ",
+            "2.Flour  ",
+            "3.Rggs  ",
+            "4.Breadcrumbs  ",
+            "5.Tomato sauce  "
+        ],
+        "method": " Preheat oven to 400°F. Place flour, beaten eggs, and breadcrumbs in three separate shallow dishes. Dredge chicken breasts in flour, shaking off excess. Dip chicken in beaten eggs, then coat with breadcrumbs. Heat olive oil in a large skillet over medium heat. Add chicken and cook until browned on both sides. Transfer chicken to a baking dish and cover with tomato sauce. Add shredded mozzarella and grated parmesan cheese on top of the chicken. Bake for 20-25 minutes or until the cheese is melted and bubbly. Serve hot.",
+        "rating": 4.6
+    },
+    {
+        "id": "4",
+        "name": "Lasagna",
+        "image": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11251.jpg?w=1380&t=st=1683143547~exp=1683144147~hmac=cd7b375bf527958eda7b7c1e51c318b8928f63c4b5e01e3213a66b9fde3e1a77",
+        "ingredients": [
+            "1.lasagna noodles  ",
+            "2.ground beef  ",
+            "3.onion  ",
+            "4.garlic  "
+        ],
+        "method": " Preheat oven to 375°F. Cook lasagna noodles according to package directions. In a large skillet, brown ground beef with onion and garlic. Add tomato sauce and Italian seasoning to the skillet, and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. In a 9x13 inch baking dish, layer the noodles, meat sauce, and cheese mixture. Repeat layers until all ingredients are used, ending with a layer of cheese on top.  Bake for 25-30 minutes or until cheese is melted and bubbly.  Let lasagna cool for a few minutes before serving.",
+        "rating": 4.9
+    },
+    {
+        "id": "5",
+        "name": "Minestrone Soup",
+        "image": "https://img.freepik.com/free-photo/homemade-chicken-vegetable-soup-overhead-view-book-table_114579-261.jpg?w=1380&t=st=1683143676~exp=1683144276~hmac=7f4c0c7b425346880ac3cfc94fb9762bde76ff13f8b4f25d2c300c019dadc3a5",
+        "ingredients": [
+            "1.onion  ",
+            "2.garlic  ",
+            "3.carrots  ",
+            "4.celery  ",
+            "5.potatoes  "
+        ],
+        "method": "1. In a large pot, sauté onion and garlic until soft. \n2. Add chopped carrots, celery, and potatoes to the pot, and sauté for a few minutes. \n3. Add canned diced tomatoes, vegetable broth, and cannellini beans to the pot. \n4. Bring soup to a boil, then reduce heat and simmer for 20-30 minutes. \n5. Add chopped zucchini and spinach to the pot, and simmer for an additional 10 minutes. Season soup with Italian seasoning to taste.  Serve hot with grated parmesan cheese on top.",
+        "rating": 4.7
+    },
+    {
+        "id": "6",
+        "name": "Spaghetti Carbonara",
+        "image": "https://img.freepik.com/premium-photo/tasty-italian-pizza-with-tomato-sauce-parmesan_1220-4148.jpg?w=1380",
+        "ingredients": [
+            "1.spaghetti  ",
+            "2.pancetta  ",
+            "3.pecorino cheese  ",
+            "4.egg yolks  ",
+            "5.garlic  "
+        ],
+        "method": "1. Cook spaghetti according to package directions. \n2. In a large skillet, cook pancetta until crispy. \n3. In a bowl, whisk together egg yolks and pecorino cheese. \n4. When spaghetti is cooked, reserve a cup of pasta water and drain the rest. \n5. Add garlic to the skillet and cook until fragrant. \n6. Remove skillet from heat and add spaghetti. \n7. Quickly pour in egg and cheese mixture, stirring constantly to avoid scrambling the eggs. \n8. If the pasta is too dry, add some of the reserved pasta water. \n9. Serve with a generous amount of black pepper on top.",
+        "rating": 4.8
+    },
+    {
+        "id": "7",
+        "name": "Margherita Pizza",
+        "image": "https://img.freepik.com/free-photo/pizza-pepperoni-table_140725-5396.jpg?w=1380&t=st=1683143855~exp=1683144455~hmac=4849fb92e4201a1482a17e8716e1f41a878273b5fcc4637697c6f88c0998fc08",
+        "ingredients": [
+            "1.pizza dough  ",
+            "2.tomatoes  ",
+            "3.mozzarella cheese  ",
+            "4.fresh basil  ",
+            "5.olive oil  "
+        ],
+        "method": "1. Preheat oven to 450°F. \n2. Roll out pizza dough into desired shape. \n3. Spread a thin layer of tomato sauce on top of the dough. \n4. Add mozzarella cheese on top of the tomato sauce. \n5. Bake pizza for 10-12 minutes until crust is golden brown. \n6. Remove from oven and add fresh basil leaves on top. \n7. Drizzle with olive oil before serving.",
+        "rating": 4.5
+    },
+    {
+        "id": "8",
+        "name": "Chicken Parmesan",
+        "image": "https://img.freepik.com/free-photo/beyti-wrapped-kebab-topped-with-tomato-sauce-served-with-tomato-pepper-yoghurt_140725-545.jpg?w=1380&t=st=1683143909~exp=1683144509~hmac=f43e1a4ea8e546a4a259d599a79db0d833c1cdc57a784d29a22e6d6b3b41c788",
+        "ingredients": [
+            "1.chicken breasts  ",
+            "2.flour  ",
+            "3.eggs  ",
+            "4.breadcrumbs  ",
+            "5.tomato sauce  "
+        ],
+        "method": "1. Preheat oven to 400°F. \n2. Place flour, beaten eggs, and breadcrumbs in three separate shallow dishes. \n3. Dredge chicken breasts in flour, shaking off excess. \n4. Dip chicken in beaten eggs, then coat with breadcrumbs. \n5. Heat olive oil in a large skillet over medium heat. \n6. Add chicken and cook until browned on both sides. \n7. Transfer chicken to a baking dish and cover with tomato sauce. \n8. Add shredded mozzarella and grated parmesan cheese on top of the chicken. \n9. Bake for 20-25 minutes or until the cheese is melted and bubbly. \n10. Serve hot.",
+        "rating": 4.6
+    },
+    {
+        "id": "9",
+        "name": "Lasagna",
+        "image": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11251.jpg?w=1380&t=st=1683143547~exp=1683144147~hmac=cd7b375bf527958eda7b7c1e51c318b8928f63c4b5e01e3213a66b9fde3e1a77",
+        "ingredients": [
+            "1.lasagna noodles  ",
+            "2.ground beef  ",
+            "3.onion  ",
+            "4.garlic  ",
+            "5.tomato sauce  "
+        ],
+        "method": "1. Preheat oven to 375°F. \n2. Cook lasagna noodles according to package directions. \n3. In a large skillet, brown ground beef with onion and garlic. \n4. Add tomato sauce and Italian seasoning to the skillet, and simmer for 10 minutes. \n5. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. \n6. In a 9x13 inch baking dish, layer the noodles, meat sauce, and cheese mixture. \n7. Repeat layers until all ingredients are used, ending with a layer of cheese on top. \n8. Bake for 25-30 minutes or until cheese is melted and bubbly. \n9. Let lasagna cool for a few minutes before serving.",
+        "rating": 4.9
+    },
+    {
+        "id": "10",
+        "name": "Minestrone Soup",
+        "image": "https://img.freepik.com/premium-photo/pumpkin-soup-with-croutons-wooden-background-copy-space_106885-3556.jpg?w=1380",
+        "ingredients": [
+            "1.onion  ",
+            "2.garlic  ",
+            "3.carrots  ",
+            "4.celery  ",
+            "5.potatoes  "
+        ],
+        "method": "1. In a large pot, sauté onion and garlic until soft. \n2. Add chopped carrots, celery, and potatoes to the pot, and sauté for a few minutes. \n3. Add canned diced tomatoes, vegetable broth, and cannellini beans to the pot. \n4. Bring soup to a boil, then reduce heat and simmer for 20-30 minutes. \n5. Add chopped zucchini and spinach to the pot, and simmer for an additional 10 minutes. \n6. Season soup with Italian seasoning to taste. \n7. Serve hot with grated parmesan cheese on top.",
+        "rating": 4.7
+    },
+    {
+        "id": "11",
+        "name": "Spaghetti Carbonara",
+        "image": "https://img.freepik.com/free-photo/spaghetti-black-cup-with-tomatoes-lettuce_1150-23163.jpg?w=1380&t=st=1683144226~exp=1683144826~hmac=ada66acc7139f33c0eb2b94cf5a1a15945b0e3fca78e77d1f1604fbbbeafaf6e",
+        "ingredients": [
+            "1.spaghetti  ",
+            "2.pancetta  ",
+            "3.pecorino cheese  ",
+            "4.egg yolks  ",
+            "5.garlic  "
+        ],
+        "method": "1. Cook spaghetti according to package directions. \n2. In a large skillet, cook pancetta until crispy. \n3. In a bowl, whisk together egg yolks and pecorino cheese. \n4. When spaghetti is cooked, reserve a cup of pasta water and drain the rest. \n5. Add garlic to the skillet and cook until fragrant. \n6. Remove skillet from heat and add spaghetti. \n7. Quickly pour in egg and cheese mixture, stirring constantly to avoid scrambling the eggs. \n8. If the pasta is too dry, add some of the reserved pasta water. \n9. Serve with a generous amount of black pepper on top.",
+        "rating": 4.8
+    },
+    {
+        "id": "12",
+        "name": "Margherita Pizza",
+        "image": "https://img.freepik.com/free-photo/pizza-pepperoni-table_140725-5396.jpg?w=1380&t=st=1683143855~exp=1683144455~hmac=4849fb92e4201a1482a17e8716e1f41a878273b5fcc4637697c6f88c0998fc08",
+        "ingredients": [
+            "1.pizza dough  ",
+            "2.tomatoes  ",
+            "3.mozzarella cheese  ",
+            "4.fresh basil  ",
+            "5.olive oil  "
+        ],
+        "method": "1. Preheat oven to 450°F. \n2. Roll out pizza dough into desired shape. \n3. Spread a thin layer of tomato sauce on top of the dough. \n4. Add mozzarella cheese on top of the tomato sauce. \n5. Bake pizza for 10-12 minutes until crust is golden brown. \n6. Remove from oven and add fresh basil leaves on top. \n7. Drizzle with olive oil before serving.",
+        "rating": 4.5
+    },
+    {
+        "id": "13",
+        "name": "Chicken Parmesan",
+        "image": "https://img.freepik.com/free-photo/beyti-wrapped-kebab-topped-with-tomato-sauce-served-with-tomato-pepper-yoghurt_140725-545.jpg?w=1380&t=st=1683143909~exp=1683144509~hmac=f43e1a4ea8e546a4a259d599a79db0d833c1cdc57a784d29a22e6d6b3b41c788",
+        "ingredients": [
+            "1.chicken breasts  ",
+            "2.flour  ",
+            "3.eggs  ",
+            "4.breadcrumbs  ",
+            "5.tomato sauce  "
+        ],
+        "method": "1. Preheat oven to 400°F. \n2. Place flour, beaten eggs, and breadcrumbs in three separate shallow dishes. \n3. Dredge chicken breasts in flour, shaking off excess. \n4. Dip chicken in beaten eggs, then coat with breadcrumbs. \n5. Heat olive oil in a large skillet over medium heat. \n6. Add chicken and cook until browned on both sides. \n7. Transfer chicken to a baking dish and cover with tomato sauce. \n8. Add shredded mozzarella and grated parmesan cheese on top of the chicken. \n9. Bake for 20-25 minutes or until the cheese is melted and bubbly. \n10. Serve hot.",
+        "rating": 4.6
+    },
+    {
+        "id": "14",
+        "name": "Lasagna",
+        "image": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11251.jpg?w=1380&t=st=1683143547~exp=1683144147~hmac=cd7b375bf527958eda7b7c1e51c318b8928f63c4b5e01e3213a66b9fde3e1a77",
+        "ingredients": [
+            "1.lasagna noodles  ",
+            "2.ground beef  ",
+            "3.onion  ",
+            "4.garlic  ",
+            "5.tomato sauce  "
+        ],
+        "method": "1. Preheat oven to 375°F. \n2. Cook lasagna noodles according to package directions. \n3. In a large skillet, brown ground beef with onion and garlic. \n4. Add tomato sauce and Italian seasoning to the skillet, and simmer for 10 minutes. \n5. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. \n6. In a 9x13 inch baking dish, layer the noodles, meat sauce, and cheese mixture. \n7. Repeat layers until all ingredients are used, ending with a layer of cheese on top. \n8. Bake for 25-30 minutes or until cheese is melted and bubbly. \n9. Let lasagna cool for a few minutes before serving.",
+        "rating": 4.9
+    },
+    {
+        "id": "15",
+        "name": "Minestrone Soup",
+        "image": "https://img.freepik.com/premium-photo/pumpkin-soup-with-croutons-wooden-background-copy-space_106885-3556.jpg?w=1380",
+        "ingredients": [
+            "1.onion  ",
+            "2.garlic  ",
+            "3.carrots  ",
+            "4.celery  ",
+            "5.potatoes  "
+        ],
+        "method": "1. In a large pot, sauté onion and garlic until soft. \n2. Add chopped carrots, celery, and potatoes to the pot, and sauté for a few minutes. \n3. Add canned diced tomatoes, vegetable broth, and cannellini beans to the pot. \n4. Bring soup to a boil, then reduce heat and simmer for 20-30 minutes. \n5. Add chopped zucchini and spinach to the pot, and simmer for an additional 10 minutes. \n6. Season soup with Italian seasoning to taste. \n7. Serve hot with grated parmesan cheese on top.",
+        "rating": 4.7
+    },
+    {
+        "id": "16",
+        "name": "Minestrone Soup",
+        "image": "https://img.freepik.com/premium-photo/pumpkin-soup-with-croutons-wooden-background-copy-space_106885-3556.jpg?w=1380",
+        "ingredients": [
+            "1.onion  ",
+            "2.garlic  ",
+            "3.carrots  ",
+            "4.celery  ",
+            "5.potatoes  "
+        ],
+        "method": "1. In a large pot, sauté onion and garlic until soft. \n2. Add chopped carrots, celery, and potatoes to the pot, and sauté for a few minutes. \n3. Add canned diced tomatoes, vegetable broth, and cannellini beans to the pot. \n4. Bring soup to a boil, then reduce heat and simmer for 20-30 minutes. \n5. Add chopped zucchini and spinach to the pot, and simmer for an additional 10 minutes. \n6. Season soup with Italian seasoning to taste. \n7. Serve hot with grated parmesan cheese on top.",
+        "rating": 4.7
+    },
+    {
+        "id": "17",
+        "name": "Minestrone Soup",
+        "image": "https://img.freepik.com/premium-photo/pumpkin-soup-with-croutons-wooden-background-copy-space_106885-3556.jpg?w=1380",
+        "ingredients": [
+            "1.onion  ",
+            "2.garlic  ",
+            "3.carrots  ",
+            "4.celery  ",
+            "5.potatoes  "
+        ],
+        "method": "1. In a large pot, sauté onion and garlic until soft. \n2. Add chopped carrots, celery, and potatoes to the pot, and sauté for a few minutes. \n3. Add canned diced tomatoes, vegetable broth, and cannellini beans to the pot. \n4. Bring soup to a boil, then reduce heat and simmer for 20-30 minutes. \n5. Add chopped zucchini and spinach to the pot, and simmer for an additional 10 minutes. \n6. Season soup with Italian seasoning to taste. \n7. Serve hot with grated parmesan cheese on top.",
+        "rating": 4.7
+    },
+    {
+        "id": "18",
+        "name": "Minestrone Soup",
+        "image": "https://img.freepik.com/premium-photo/pumpkin-soup-with-croutons-wooden-background-copy-space_106885-3556.jpg?w=1380",
+        "ingredients": [
+            "1.onion  ",
+            "2.garlic  ",
+            "3.carrots  ",
+            "4.celery  ",
+            "5.potatoes  "
+        ],
+        "method": "1. In a large pot, sauté onion and garlic until soft. \n2. Add chopped carrots, celery, and potatoes to the pot, and sauté for a few minutes. \n3. Add canned diced tomatoes, vegetable broth, and cannellini beans to the pot. \n4. Bring soup to a boil, then reduce heat and simmer for 20-30 minutes. \n5. Add chopped zucchini and spinach to the pot, and simmer for an additional 10 minutes. \n6. Season soup with Italian seasoning to taste. \n7. Serve hot with grated parmesan cheese on top.",
+        "rating": 4.7
+    }
+]
